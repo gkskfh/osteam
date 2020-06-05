@@ -24,6 +24,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("test")
         print("test333")
+        print("test33322222")
         
         let url = "http://127.0.0.1/json_parse.php"
         let params = ["":""]
