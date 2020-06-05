@@ -62,6 +62,7 @@ class ViewController: UIViewController {
     }
     
     func changeFrame () {
+        print("test2")
         let guide = self.view.safeAreaLayoutGuide
         let height = guide.layoutFrame.size.height
         
