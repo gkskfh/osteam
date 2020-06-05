@@ -22,7 +22,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        print("test")
         
         let url = "http://127.0.0.1/json_parse.php"
         let params = ["":""]
